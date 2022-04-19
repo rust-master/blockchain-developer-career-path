@@ -25,8 +25,8 @@ Ethereum Blockchain
 
 ## Week - 3: Learn Solidity - Smart Contracts
 
-## Week - 4: Learn JavaScript & React Js - Frontend
+## Week - 4: Learn JavaScript and React Js - Frontend
 
-## Week - 5: Learn Web3 Js & MetaMask Wallet
+## Week - 5: Learn Web3 Js and MetaMask Wallet
 
-## Week - 6: Learn Truffle & Ganache
+## Week - 6: Learn Truffle and Ganache
