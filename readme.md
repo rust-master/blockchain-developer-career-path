@@ -19,9 +19,14 @@
   - https://www.youtube.com/watch?v=uiHbJPZlT1k
 -
 
-## Week - 2: Learn Fundamentals of Blockchain
+## Week - 2: Learn Ethereum Blockchain
 
 Ethereum Blockchain
 
-- Solana
-- HyberLedger
+## Week - 3: Learn Solidity - Smart Contracts
+
+## Week - 4: Learn React Js - Frontend
+
+## Week - 5: Learn Web3 Js
+
+## Week - 6: Learn Truffle & Ganache
