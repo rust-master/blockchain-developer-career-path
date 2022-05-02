@@ -39,7 +39,14 @@
 - Transactions: https://ethereum.org/en/developers/docs/transactions/
   - Transactions (Video): https://www.youtube.com/watch?v=2EhKeQHFeTs
 - What are Blocks: https://ethereum.org/en/developers/docs/blocks/
-   
+- Ethereum Virtual Machine (Video): https://www.youtube.com/watch?v=GPoze5RmDVU
+  - https://ethereum.org/en/developers/docs/evm/
+- Gas and Fee: https://ethereum.org/en/developers/docs/gas/
+- Nodes and Clients: https://ethereum.org/en/developers/docs/nodes-and-clients/
+- Networks: https://ethereum.org/en/developers/docs/networks/
+- Consensus Mechanisms: https://ethereum.org/en/developers/docs/consensus-mechanisms/
+- Ethereum Stack: https://ethereum.org/en/developers/docs/ethereum-stack/
+
 ## Week - 3: Learn Solidity - Smart Contracts
 
 ## Week - 4: Learn JavaScript and React Js - Frontend
