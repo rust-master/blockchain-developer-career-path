@@ -2,8 +2,6 @@
 
 ## Week - 1: Learn Fundamentals of Blockchain
 
-### Introduction to Blockchain
-
 - What is Blockchain: https://www.youtube.com/watch?v=2yJqjTiwpxM
 - Introduction: https://www.geeksforgeeks.org/introduction-to-blockchain/?ref=lbp
 - How does a blockchain work: https://www.youtube.com/watch?v=SSo_EIwHSd4
@@ -48,7 +46,8 @@
 - Ethereum Stack: https://ethereum.org/en/developers/docs/ethereum-stack/
 - Standards: https://ethereum.org/en/developers/docs/standards/tokens/
 
-## Week - 3: Learn Solidity - Smart Contracts Language 
+## Week - 3: Learn Solidity - Smart Contracts Language
+
 - What is Smart Contract (Video): https://www.youtube.com/watch?v=ZE2HxTmxfrI
   - https://ethereum.org/en/developers/docs/smart-contracts/
 - Solidity Offical Documentation: https://docs.soliditylang.org/en/v0.8.13/
@@ -63,6 +62,7 @@
 ## Week - 6: Learn Truffle and Ganache
 
 
-Recommended Courses:
+### Recommended Courses:
+
 - Blockchain Full Course Overview  : https://www.youtube.com/watch?v=VU59tR982W4&list=PLgPmWS2dQHW-BRQCQCNYgmHUfCN115pn0
 - Solidity Full Course - 4 hours : https://www.youtube.com/watch?v=NqGe942J4Y0&t=430s
