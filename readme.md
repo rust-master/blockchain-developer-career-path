@@ -17,7 +17,6 @@
 - Distributed vs Decentralized: https://zipmex.com/learn/distributed-vs-decentralized/
 - Types of Blockchain: https://www.foley.com/en/insights/publications/2021/08/types-of-blockchain-public-private-between
   - https://www.youtube.com/watch?v=uiHbJPZlT1k
--
 
 ## Week - 2: Learn Ethereum Blockchain
 
@@ -40,7 +39,7 @@
 - Transactions: https://ethereum.org/en/developers/docs/transactions/
   - Transactions (Video): https://www.youtube.com/watch?v=2EhKeQHFeTs
 - What are Blocks: https://ethereum.org/en/developers/docs/blocks/
-  - 
+   
 ## Week - 3: Learn Solidity - Smart Contracts
 
 ## Week - 4: Learn JavaScript and React Js - Frontend
