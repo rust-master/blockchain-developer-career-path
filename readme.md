@@ -55,7 +55,13 @@
 - Solidity Youtube Video Playlist: https://www.youtube.com/watch?v=MnSmc7Hto2k&list=PLS5SEs8ZftgUq-aMMYeKf8nPqHrNqa3Iu
 - Master Solidity: https://www.youtube.com/watch?v=pqxNmdwEHio&list=PLS5SEs8ZftgVnWHv2_mkvJjn5HBOkde3g
 
-## Week - 4: Learn JavaScript and React Js - Frontend
+## Week - 4: Learn JavaScript, Node Js and React Js - Frontend
+- JavaScript - 1 Hour Video: https://www.youtube.com/watch?v=W6NZfCO5SIk
+  - JavaScript Documentation: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
+- Node Js: https://www.youtube.com/watch?v=TlB_eWDSMt4
+  - Node Js Documentation: https://nodejs.org/en/docs/guides/
+- React Js: https://www.youtube.com/watch?v=Ke90Tje7VS0
+  - React Js Documentation: https://reactjs.org/docs/getting-started.html
 
 ## Week - 5: Learn Web3 Js and MetaMask Wallet
 - Web3.js - Ethereum JavaScript API (Offical Docs):  https://web3js.readthedocs.io/en/v1.7.3/
