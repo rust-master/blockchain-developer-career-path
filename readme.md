@@ -14,7 +14,7 @@
   - Proof of Stake: https://www.youtube.com/watch?v=M3EFi_POhps
 - Distributed vs Decentralized: https://zipmex.com/learn/distributed-vs-decentralized/
 - Types of Blockchain: https://www.foley.com/en/insights/publications/2021/08/types-of-blockchain-public-private-between
-  - https://www.youtube.com/watch?v=uiHbJPZlT1k
+  - Types of Blokchain (Video): https://www.youtube.com/watch?v=uiHbJPZlT1k
 
 ## Week - 2: Learn Ethereum Blockchain
 
