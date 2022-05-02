@@ -1,4 +1,4 @@
-# Blockchain DApp Developer Career Path For Beginners
+# Blockchain DApp Developer Career Path - Beginners
 
 ## Week - 1: Learn Fundamentals of Blockchain
 
