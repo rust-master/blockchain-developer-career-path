@@ -14,7 +14,7 @@
   - Proof of Stake: https://www.youtube.com/watch?v=M3EFi_POhps
 - Distributed vs Decentralized: https://zipmex.com/learn/distributed-vs-decentralized/
 - Types of Blockchain: https://www.foley.com/en/insights/publications/2021/08/types-of-blockchain-public-private-between
-  - Types of Blokchain (Video): https://www.youtube.com/watch?v=uiHbJPZlT1k
+  - Types of Blockchain (Video): https://www.youtube.com/watch?v=uiHbJPZlT1k
 
 ## Week - 2: Learn Ethereum Blockchain
 
@@ -53,7 +53,7 @@
 - Solidity Offical Documentation: https://docs.soliditylang.org/en/v0.8.13/
 - Remix IDE for Smart Contract: https://remix.ethereum.org/
 - Solidity Youtube Video Playlist: https://www.youtube.com/watch?v=MnSmc7Hto2k&list=PLS5SEs8ZftgUq-aMMYeKf8nPqHrNqa3Iu
-- Master Solidity for blockchain: https://www.youtube.com/watch?v=pqxNmdwEHio&list=PLS5SEs8ZftgVnWHv2_mkvJjn5HBOkde3g
+- Master Solidity: https://www.youtube.com/watch?v=pqxNmdwEHio&list=PLS5SEs8ZftgVnWHv2_mkvJjn5HBOkde3g
 
 ## Week - 4: Learn JavaScript and React Js - Frontend
 
