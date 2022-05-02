@@ -61,6 +61,10 @@
 - Web3.js - Ethereum JavaScript API (Offical Docs):  https://web3js.readthedocs.io/en/v1.7.3/
 - Web3.js Intro: https://www.youtube.com/watch?v=t3wM5903ty0
 - Web3.js full course: https://www.youtube.com/watch?v=u3PtGMRmGA0
+- Meta Mask Wallet (Offical Docs): https://docs.metamask.io/guide/
+- What is Meta Mask Wallet: https://www.youtube.com/watch?v=YVgfHZMFFFQ
+- Metamask: Step-by-Step Guide: https://www.youtube.com/watch?v=MfkqgXNPiHg
+- How to Use MetaMask: https://www.youtube.com/watch?v=tw-tQD0jztE
 
 ## Week - 6: Learn Truffle and Ganache
 
