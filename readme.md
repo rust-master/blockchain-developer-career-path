@@ -65,4 +65,4 @@
 
 Recommended Courses:
 - Blockchain Full Course Overview  : https://www.youtube.com/watch?v=VU59tR982W4&list=PLgPmWS2dQHW-BRQCQCNYgmHUfCN115pn0
-
+- Solidity Full Course - 4 hours : https://www.youtube.com/watch?v=NqGe942J4Y0&t=430s
