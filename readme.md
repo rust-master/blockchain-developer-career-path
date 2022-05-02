@@ -58,6 +58,9 @@
 ## Week - 4: Learn JavaScript and React Js - Frontend
 
 ## Week - 5: Learn Web3 Js and MetaMask Wallet
+- Web3.js - Ethereum JavaScript API (Offical Docs):  https://web3js.readthedocs.io/en/v1.7.3/
+- Web3.js Intro: https://www.youtube.com/watch?v=t3wM5903ty0
+- Web3.js full course: https://www.youtube.com/watch?v=u3PtGMRmGA0
 
 ## Week - 6: Learn Truffle and Ganache
 
