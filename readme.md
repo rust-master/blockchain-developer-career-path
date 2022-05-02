@@ -21,7 +21,16 @@
 
 ## Week - 2: Learn Ethereum Blockchain
 
-Ethereum Blockchain
+- What is Ethereum: https://ethereum.org/en/what-is-ethereum/
+  - Ethereum Blockchain (Video): https://www.youtube.com/watch?v=3_CYeEL9hwI
+  - Detailed Ethereum (Video): https://www.youtube.com/watch?v=jxLkbJozKbY
+- What is Ether: https://ethereum.org/en/eth/
+  - Ehter (Video): https://www.youtube.com/watch?v=fjnovGRQrRE
+- Ethereum Whitepaper: https://ethereum.org/en/whitepaper/
+- The history of Ethereum: https://ethereum.org/en/history/
+- Ethereum Upgrades: https://ethereum.org/en/upgrades/
+- Introduction to DApps: https://ethereum.org/en/developers/docs/dapps/
+  - What is Dapps (Video): https://www.youtube.com/watch?v=CDQX8inMCt0
 
 ## Week - 3: Learn Solidity - Smart Contracts
 
