@@ -72,12 +72,18 @@
 - Metamask: Step-by-Step Guide: https://www.youtube.com/watch?v=MfkqgXNPiHg
 - How to Use MetaMask: https://www.youtube.com/watch?v=tw-tQD0jztE
 
-## Week - 6: Learn Truffle and Ganache
+## Week - 6: Learn Truffle, Ganache and Testnets
 - Truffle Docs: https://trufflesuite.com/docs/truffle/
   - Truffle Tutorial: https://www.youtube.com/watch?v=62f757RVEvU
 - Ganache: https://trufflesuite.com/docs/ganache/
   - Ganache CLI: https://www.youtube.com/watch?v=ziRw31OTQOE
   - Ganache: https://www.youtube.com/watch?v=hvWEiIIE52k
+- Testnets: https://www.youtube.com/watch?v=TCpfVgzhgh0
+- Get Faucets - Ethers
+  - https://faucet.rinkeby.io/
+  - https://faucets.chain.link/
+
+## Practice Project - Comming Soon
 
 ### Recommended Courses:
 
