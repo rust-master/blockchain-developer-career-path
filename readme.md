@@ -5,6 +5,7 @@
 - What is Blockchain: https://www.youtube.com/watch?v=2yJqjTiwpxM
 - Introduction: https://www.geeksforgeeks.org/introduction-to-blockchain/?ref=lbp
 - How does a blockchain work: https://www.youtube.com/watch?v=SSo_EIwHSd4
+- Bitcoin White Paper: https://bitcoin.org/bitcoin.pdf
 - What is Cryptography: https://www.geeksforgeeks.org/cryptography-introduction/
   - Cryptography: https://www.youtube.com/watch?v=2sPpuMclSQU
 - What Is Hashing: https://blockgeeks.com/guides/what-is-hashing/
