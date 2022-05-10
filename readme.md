@@ -31,7 +31,7 @@
 - Introduction to DApps: https://ethereum.org/en/developers/docs/dapps/
   - What is Dapps (Video): https://www.youtube.com/watch?v=CDQX8inMCt0
 - Web2 Vs Web3: https://ethereum.org/en/developers/docs/web2-vs-web3/
-  - Intro to Web3: https://ethereum.org/en/web3/   
+  - Intro to Web3: https://ethereum.org/en/web3/
   - Web3 (Video): https://www.youtube.com/watch?v=rgeQwaJQ4MM
 - Ethereum Accounts: https://ethereum.org/en/developers/docs/accounts/
   - Ethereum Accounts (Video): https://www.youtube.com/watch?v=EpAXK3_Eaog
@@ -57,6 +57,7 @@
 - Master Solidity: https://www.youtube.com/watch?v=pqxNmdwEHio&list=PLS5SEs8ZftgVnWHv2_mkvJjn5HBOkde3g
 
 ## Week - 4: Learn JavaScript, Node Js and React Js - Frontend
+
 - JavaScript - 1 Hour Video: https://www.youtube.com/watch?v=W6NZfCO5SIk
   - JavaScript Docs: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
 - Node Js: https://www.youtube.com/watch?v=TlB_eWDSMt4
@@ -65,7 +66,8 @@
   - React Js Docs: https://reactjs.org/docs/getting-started.html
 
 ## Week - 5: Learn Web3 Js and MetaMask Wallet
-- Web3.js - Ethereum JavaScript API (Offical Docs):  https://web3js.readthedocs.io/en/v1.7.3/
+
+- Web3.js - Ethereum JavaScript API (Offical Docs): https://web3js.readthedocs.io/en/v1.7.3/
 - Web3.js Intro: https://www.youtube.com/watch?v=t3wM5903ty0
 - Web3.js full course: https://www.youtube.com/watch?v=u3PtGMRmGA0
 - Meta Mask Wallet (Offical Docs): https://docs.metamask.io/guide/
@@ -74,6 +76,7 @@
 - How to Use MetaMask: https://www.youtube.com/watch?v=tw-tQD0jztE
 
 ## Week - 6: Learn Truffle, Ganache and Testnets
+
 - Truffle Docs: https://trufflesuite.com/docs/truffle/
   - Truffle Tutorial: https://www.youtube.com/watch?v=62f757RVEvU
 - Ganache: https://trufflesuite.com/docs/ganache/
@@ -88,5 +91,6 @@
 
 ### Recommended Courses:
 
-- Blockchain Full Course Overview  : https://www.youtube.com/watch?v=VU59tR982W4&list=PLgPmWS2dQHW-BRQCQCNYgmHUfCN115pn0
+- Blockchain Course (Recommended) : https://www.youtube.com/watch?app=desktop&v=U2P_Epjcx1I&list=PL1Xmyl4aKTRjZTZSA_gVpk2xf6QKr_QyZ
+- Blockchain Full Course Overview : https://www.youtube.com/watch?v=VU59tR982W4&list=PLgPmWS2dQHW-BRQCQCNYgmHUfCN115pn0
 - Solidity Full Course - 4 hours : https://www.youtube.com/watch?v=NqGe942J4Y0&t=430s
