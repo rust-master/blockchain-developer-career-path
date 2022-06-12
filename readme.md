@@ -91,6 +91,7 @@
 
 ### Recommended Courses:
 
+- Cryptozombies: https://cryptozombies.io/
 - Blockchain Course (Recommended) : https://www.youtube.com/watch?app=desktop&v=U2P_Epjcx1I&list=PL1Xmyl4aKTRjZTZSA_gVpk2xf6QKr_QyZ
 - Blockchain Full Course Overview : https://www.youtube.com/watch?v=VU59tR982W4&list=PLgPmWS2dQHW-BRQCQCNYgmHUfCN115pn0
 - Solidity Full Course - 4 hours : https://www.youtube.com/watch?v=NqGe942J4Y0&t=430s
