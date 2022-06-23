@@ -88,6 +88,9 @@
   - https://faucets.chain.link/
 
 ## Practice Project - Comming Soon
+ ### NFT Markeplace
+ ### Token Staking
+ ### Escrow Contract
 
 ### Recommended Courses:
 
