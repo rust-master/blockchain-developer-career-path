@@ -93,6 +93,9 @@
   - https://faucet.rinkeby.io/
   - https://faucets.chain.link/
 
+## Week - 7: Learn DeFi
+- Comming Soon
+
 ## Practice Project - Comming Soon
  ### NFT Markeplace
  ### Token Staking
