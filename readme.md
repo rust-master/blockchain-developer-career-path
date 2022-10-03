@@ -97,7 +97,7 @@
   - https://faucets.chain.link/
 
 ## Week - 7: Learn DeFi
-- Comming Soon
+- Decentralized Finance (DeFi) Infrastructure: https://www.coursera.org/learn/decentralized-finance-infrastructure-duke
 
 ## Practice Project - Comming Soon
 - NFT Projects:
