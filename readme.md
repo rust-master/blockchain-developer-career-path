@@ -61,6 +61,7 @@
 
 - JavaScript - 1 Hour Video: https://www.youtube.com/watch?v=W6NZfCO5SIk
   - JavaScript Docs: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
+  - JavaScript Basics by w3schools : https://www.w3schools.com/js/default.asp
 - Node Js: https://www.youtube.com/watch?v=TlB_eWDSMt4
   - Node Js Docs: https://nodejs.org/en/docs/guides/
 - React Js: https://www.youtube.com/watch?v=Ke90Tje7VS0
@@ -68,6 +69,8 @@
 - React Js - Full Course(In Hindi): https://www.youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt
 - JavaScript - Full Course: https://www.youtube.com/watch?v=jS4aFq5-91M&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=3
 - HTML and CSS: https://www.youtube.com/watch?v=mU6anWqZJcc
+  - HTML Basics by w3schools : https://www.w3schools.com/html/default.asp
+  - CSS Basics by w3schools : https://www.w3schools.com/css/default.asp
 - React Redux: https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK
 - Tailwind CSS: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw
 
@@ -97,6 +100,9 @@
 - Comming Soon
 
 ## Practice Project - Comming Soon
+- NFT Projects:
+  - NFT Sample Project : https://github.com/f-o-a-m/sample-nft-project
+  - NFT Project : https://github.com/tgmarinho/nft-project
  ### NFT Markeplace
  ### Token Staking
  ### Escrow Contract
