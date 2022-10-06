@@ -70,12 +70,12 @@
 - React Js: https://www.youtube.com/watch?v=Ke90Tje7VS0
   - React Js Docs: https://reactjs.org/docs/getting-started.html
   - React Js Basics : https://www.w3schools.com/REACT/DEFAULT.ASP
-- React Js - Full Course(In Hindi): https://www.youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt
+  - React Js - Full Course(In Hindi): https://www.youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt
+  - React Redux: https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK
 - JavaScript - Full Course: https://www.youtube.com/watch?v=jS4aFq5-91M&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=3
 - HTML and CSS: https://www.youtube.com/watch?v=mU6anWqZJcc
   - HTML Basics by w3schools : https://www.w3schools.com/html/default.asp
   - CSS Basics by w3schools : https://www.w3schools.com/css/default.asp
-- React Redux: https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK
 - Tailwind CSS: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw
 
 ## Week - 5: Learn Web3 Js and MetaMask Wallet
