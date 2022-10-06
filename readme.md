@@ -62,10 +62,14 @@
 - JavaScript - 1 Hour Video: https://www.youtube.com/watch?v=W6NZfCO5SIk
   - JavaScript Docs: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
   - JavaScript Basics by w3schools : https://www.w3schools.com/js/default.asp
+  - JavaScript Cheat Sheet : https://www.geeksforgeeks.org/javascript-cheat-sheet-a-basic-guide-to-javascript
+  - JavaScript Practice Project : https://www.freecodecamp.org/news/javascript-projects-for-beginners
 - Node Js: https://www.youtube.com/watch?v=TlB_eWDSMt4
-  - Node Js Docs: https://nodejs.org/en/docs/guides/
+  - Node Js Docs: https://nodejs.org/en/docs/guides
+  - Node Js Basics : https://www.w3schools.com/nodejs
 - React Js: https://www.youtube.com/watch?v=Ke90Tje7VS0
   - React Js Docs: https://reactjs.org/docs/getting-started.html
+  - React Js Basics : https://www.w3schools.com/REACT/DEFAULT.ASP
 - React Js - Full Course(In Hindi): https://www.youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt
 - JavaScript - Full Course: https://www.youtube.com/watch?v=jS4aFq5-91M&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=3
 - HTML and CSS: https://www.youtube.com/watch?v=mU6anWqZJcc
@@ -76,7 +80,7 @@
 
 ## Week - 5: Learn Web3 Js and MetaMask Wallet
 
-- Web3.js - Ethereum JavaScript API (Offical Docs): https://web3js.readthedocs.io/en/v1.7.3/
+- Web3.js - Ethereum JavaScript API (Offical Docs): https://web3js.readthedocs.io/en/v1.8.0
 - Web3.js Intro: https://www.youtube.com/watch?v=t3wM5903ty0
 - Web3.js full course: https://www.youtube.com/watch?v=u3PtGMRmGA0
 - Meta Mask Wallet (Offical Docs): https://docs.metamask.io/guide/
