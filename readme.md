@@ -77,6 +77,7 @@
   - HTML Basics by w3schools : https://www.w3schools.com/html/default.asp
   - CSS Basics by w3schools : https://www.w3schools.com/css/default.asp
 - Tailwind CSS: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw
+- Mocha Test: https://mochajs.org/#getting-started
 
 ## Week - 5: Learn Web3 Js and MetaMask Wallet
 
