@@ -75,7 +75,9 @@
 - JavaScript - Full Course: https://www.youtube.com/watch?v=jS4aFq5-91M&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=3
 - HTML and CSS: https://www.youtube.com/watch?v=mU6anWqZJcc
   - HTML Basics by w3schools : https://www.w3schools.com/html/default.asp
+  - HTML Basics by GeeksForGeeks : https://www.geeksforgeeks.org/html-basics
   - CSS Basics by w3schools : https://www.w3schools.com/css/default.asp
+  - CSS Units by GeeksForGeeks : https://www.geeksforgeeks.org/css-units
 - Tailwind CSS: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw
 
 ## Week - 5: Learn Web3 Js and MetaMask Wallet
@@ -84,6 +86,7 @@
 - Web3.js Intro: https://www.youtube.com/watch?v=t3wM5903ty0
 - Web3.js full course: https://www.youtube.com/watch?v=u3PtGMRmGA0
 - Meta Mask Wallet (Offical Docs): https://docs.metamask.io/guide/
+- Overview of Meta Mask : https://wiki.polygon.technology/docs/develop/metamask/overview
 - What is Meta Mask Wallet: https://www.youtube.com/watch?v=YVgfHZMFFFQ
 - Metamask: Step-by-Step Guide: https://www.youtube.com/watch?v=MfkqgXNPiHg
 - How to Use MetaMask: https://www.youtube.com/watch?v=tw-tQD0jztE
@@ -92,15 +95,18 @@
 
 - Truffle Docs: https://trufflesuite.com/docs/truffle/
   - Truffle Tutorial: https://www.youtube.com/watch?v=62f757RVEvU
+  - Truffle Explained: https://moralis.io/truffle-explained-what-is-the-truffle-suite
 - Ganache: https://trufflesuite.com/docs/ganache/
   - Ganache CLI: https://www.youtube.com/watch?v=ziRw31OTQOE
   - Ganache: https://www.youtube.com/watch?v=hvWEiIIE52k
+  - Ganache(A Truffle Framework): https://medium.com/coinmonks/ganache-truffle-framework-64b01f4ca200
 - Testnets: https://www.youtube.com/watch?v=TCpfVgzhgh0
 - Get Faucets - Ethers
   - https://faucet.rinkeby.io/
   - https://faucets.chain.link/
 
 ## Week - 7: Learn DeFi
+- DeFi for Beginners: https://www.blockchain.com/learning-portal/defi-basics
 - Decentralized Finance (DeFi) Infrastructure: https://www.coursera.org/learn/decentralized-finance-infrastructure-duke
 
 ## Practice Project - Comming Soon
