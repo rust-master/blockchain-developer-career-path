@@ -116,6 +116,10 @@
   - NFT Project : https://github.com/tgmarinho/nft-project
  ### NFT Markeplace
  ### Token Staking
+ - Staking Math Explanations:
+  - https://www.youtube.com/watch?v=6ZO5aYg1GI8
+  - You can find further videos about staking math from this channel: https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA
+ - Staking Contract Example: https://www.youtube.com/watch?v=OJ-IRzCYSXI
  ### Escrow Contract
 
 ### Recommended Courses:
@@ -124,3 +128,18 @@
 - Blockchain Course (Recommended) : https://www.youtube.com/watch?app=desktop&v=U2P_Epjcx1I&list=PL1Xmyl4aKTRjZTZSA_gVpk2xf6QKr_QyZ
 - Blockchain Full Course Overview : https://www.youtube.com/watch?v=VU59tR982W4&list=PLgPmWS2dQHW-BRQCQCNYgmHUfCN115pn0
 - Solidity Full Course - 4 hours : https://www.youtube.com/watch?v=NqGe942J4Y0&t=430s
+
+## Advance Topics
+
+### Zero Knowledge
+
+You can study this cohort and make projects: https://zku.gnomio.com/
+
+- Introduction to Zero Knowledge Proofs: https://youtu.be/BT88s7_VtC8
+- Learn How Tornado Cash Works: https://youtu.be/z_cRicXX1jI
+- Learn circuit language Circom: https://www.youtube.com/watch?v=9s1VLrjk5L4
+- Learn Merkle Tree: https://www.youtube.com/watch?v=n6nEPaE7KZ8
+  - Merkle Tree Implementation Exercise With Rust: https://github.com/berkingurcan/Patika-MerkleTree-Assignment
+- Study Tornado Cash Code: https://github.com/tornadocash/tornado-core
+  
+ #### Practice Project - Coming Soon
