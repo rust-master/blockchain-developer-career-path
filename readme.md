@@ -103,7 +103,6 @@
   - Ganache(A Truffle Framework): https://medium.com/coinmonks/ganache-truffle-framework-64b01f4ca200
 - Testnets: https://www.youtube.com/watch?v=TCpfVgzhgh0
 - Get Faucets - Ethers
-  - https://faucet.rinkeby.io/
   - https://faucets.chain.link/
 
 ## Week - 7: Learn DeFi
