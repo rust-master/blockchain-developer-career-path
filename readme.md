@@ -102,7 +102,8 @@
   - Ganache: https://www.youtube.com/watch?v=hvWEiIIE52k
   - Ganache(A Truffle Framework): https://medium.com/coinmonks/ganache-truffle-framework-64b01f4ca200
 - Testnets: https://www.youtube.com/watch?v=TCpfVgzhgh0
-- Get Faucets - Ethers
+- Get Faucets Ethers for testnets
+  - https://goerlifaucet.com/
   - https://faucets.chain.link/
 
 ## Week - 7: Learn DeFi
@@ -114,12 +115,14 @@
   - NFT Sample Project : https://github.com/f-o-a-m/sample-nft-project
   - NFT Project : https://github.com/tgmarinho/nft-project
  ### NFT Markeplace
+ - coming soon
  ### Token Staking
  - Staking Math Explanations:
   - https://www.youtube.com/watch?v=6ZO5aYg1GI8
-  - You can find further videos about staking math from this channel: https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA
+  - https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA
  - Staking Contract Example: https://www.youtube.com/watch?v=OJ-IRzCYSXI
  ### Escrow Contract
+ - coming soon
 
 ### Recommended Courses:
 
