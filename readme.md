@@ -111,7 +111,7 @@
 - Decentralized Finance (DeFi) Infrastructure: https://www.coursera.org/learn/decentralized-finance-infrastructure-duke
 
 ## Practice Project - Comming Soon
-- NFT Projects:
+### NFT Projects:
   - NFT Sample Project : https://github.com/f-o-a-m/sample-nft-project
   - NFT Project : https://github.com/tgmarinho/nft-project
  ### NFT Markeplace
