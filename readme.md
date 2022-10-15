@@ -118,8 +118,8 @@
  - coming soon
  ### Token Staking
  - Staking Math Explanations:
-  - https://www.youtube.com/watch?v=6ZO5aYg1GI8
-  - https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA
+   - https://www.youtube.com/watch?v=6ZO5aYg1GI8
+   - https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA
  - Staking Contract Example: https://www.youtube.com/watch?v=OJ-IRzCYSXI
  ### Escrow Contract
  - coming soon
@@ -143,5 +143,3 @@ You can study this cohort and make projects: https://zku.gnomio.com/
 - Learn Merkle Tree: https://www.youtube.com/watch?v=n6nEPaE7KZ8
   - Merkle Tree Implementation Exercise With Rust: https://github.com/berkingurcan/Patika-MerkleTree-Assignment
 - Study Tornado Cash Code: https://github.com/tornadocash/tornado-core
-  
- #### Practice Project - Coming Soon
