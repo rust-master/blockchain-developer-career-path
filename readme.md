@@ -123,6 +123,8 @@
  - Staking Contract Example: https://www.youtube.com/watch?v=OJ-IRzCYSXI
  ### Escrow Contract
  - coming soon
+ ### Swaping Token Contract
+ - coming soon
 
 ### Recommended Courses:
 
