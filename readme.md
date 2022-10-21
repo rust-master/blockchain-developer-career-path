@@ -59,6 +59,13 @@
 
 ## Week - 4: Learn JavaScript, Node Js and React Js (Frontend)
 
+#### HTML and CSS
+  - HTML and CSS: https://www.youtube.com/watch?v=mU6anWqZJcc
+  - HTML Basics by w3schools : https://www.w3schools.com/html/default.asp
+  - HTML Basics by GeeksForGeeks : https://www.geeksforgeeks.org/html-basics
+  - CSS Basics by w3schools : https://www.w3schools.com/css/default.asp
+  - CSS Units by GeeksForGeeks : https://www.geeksforgeeks.org/css-units
+  - Tailwind CSS: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw
 #### JavaScript
   - JavaScript Docs: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
   - JavaScript - Full Course: https://www.youtube.com/watch?v=jS4aFq5-91M&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=3
@@ -76,13 +83,6 @@
   - React Js Basics : https://www.w3schools.com/REACT/DEFAULT.ASP
   - React Js - Full Course(In Hindi): https://www.youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt
   - React Redux: https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK
-#### HTML and CSS
-  - HTML and CSS: https://www.youtube.com/watch?v=mU6anWqZJcc
-  - HTML Basics by w3schools : https://www.w3schools.com/html/default.asp
-  - HTML Basics by GeeksForGeeks : https://www.geeksforgeeks.org/html-basics
-  - CSS Basics by w3schools : https://www.w3schools.com/css/default.asp
-  - CSS Units by GeeksForGeeks : https://www.geeksforgeeks.org/css-units
-  - Tailwind CSS: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw
 #### Testing
 - Mocha Test: https://mochajs.org/#getting-started
 
