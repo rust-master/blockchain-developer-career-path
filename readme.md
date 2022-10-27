@@ -120,7 +120,7 @@
   - NFT Sample Project : https://github.com/f-o-a-m/sample-nft-project
   - NFT Project : https://github.com/tgmarinho/nft-project
  ### NFT Markeplace
- - coming soon
+ - https://github.com/awaisahmadfg/Blockchain-Projects/tree/main/ERC-721_NFT_MarketPlace
  ### Token Staking
  - Staking Math Explanations:
    - https://www.youtube.com/watch?v=6ZO5aYg1GI8
