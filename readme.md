@@ -127,7 +127,8 @@
  ### Escrow Contract
  - coming soon
  ### Swaping Token Contract
- - coming soon
+ This project will help you to understand how to swap tokens and ETH with Uniswap.
+ - https://github.com/muratogat/buchain-workshop
 
 ### Recommended Courses:
 
@@ -137,6 +138,16 @@
 - Solidity Full Course - 4 hours : https://www.youtube.com/watch?v=NqGe942J4Y0&t=430s
 
 ## Advance Topics
+
+### Proxy Upgrade Pattern
+
+- https://www.youtube.com/watch?v=NkTWU6tc9WU
+
+- https://www.youtube.com/watch?v=xluCHy_HB-4
+- https://www.youtube.com/watch?v=KGmV8-NdPgE
+- https://www.youtube.com/watch?v=RcyCW1nigog
+- https://www.youtube.com/watch?v=CLhPUrxwP7k
+- https://www.youtube.com/watch?v=EUOERNErbyI
 
 ### Zero Knowledge
 
