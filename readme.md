@@ -62,9 +62,7 @@
 #### HTML and CSS
   - HTML and CSS: https://www.youtube.com/watch?v=mU6anWqZJcc
   - HTML Basics by w3schools : https://www.w3schools.com/html/default.asp
-  - HTML Basics by GeeksForGeeks : https://www.geeksforgeeks.org/html-basics
   - CSS Basics by w3schools : https://www.w3schools.com/css/default.asp
-  - CSS Units by GeeksForGeeks : https://www.geeksforgeeks.org/css-units
   - Tailwind CSS: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw
 #### JavaScript
   - JavaScript Docs: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
