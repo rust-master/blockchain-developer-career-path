@@ -142,7 +142,6 @@
 ### Proxy Upgrade Pattern
 
 - https://www.youtube.com/watch?v=NkTWU6tc9WU
-
 - https://www.youtube.com/watch?v=xluCHy_HB-4
 - https://www.youtube.com/watch?v=KGmV8-NdPgE
 - https://www.youtube.com/watch?v=RcyCW1nigog
