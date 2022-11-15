@@ -120,10 +120,10 @@
  ### NFT Markeplace
  - https://github.com/awaisahmadfg/Blockchain-Projects/tree/main/ERC-721_NFT_MarketPlace
  ### Token Staking
+  - Staking Contract Example: https://www.youtube.com/watch?v=OJ-IRzCYSXI
  - Staking Math Explanations:
    - https://www.youtube.com/watch?v=6ZO5aYg1GI8
    - https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA
- - Staking Contract Example: https://www.youtube.com/watch?v=OJ-IRzCYSXI
  ### Escrow Contract
  - coming soon
  ### Swaping Token Contract
