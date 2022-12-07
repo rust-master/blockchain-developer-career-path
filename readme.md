@@ -112,6 +112,7 @@
 ## Week - 7: Learn DeFi
 - DeFi for Beginners: https://www.blockchain.com/learning-portal/defi-basics
 - Decentralized Finance (DeFi) Infrastructure: https://www.coursera.org/learn/decentralized-finance-infrastructure-duke
+- Learn DeFi From Beginner To Pro: https://www.udemy.com/course/thedefiblueprint/
 
 ## Practice Project - Comming Soon
 ### NFT Projects:
